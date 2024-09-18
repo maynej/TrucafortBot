@@ -29,6 +29,9 @@ Suport palanca Servo-motor SG9|![](Imatges/Adapter.png) |[Adapter SG9](ServoMoun
 Suport Sensor HC-SR04|![](Imatges/SensorDistancia.png) |[HC-SR04 Asimetric 3H](SensorsMount/SensorAsimetric3H_Stemfie.stl), [HC-SR04 Asimetric 3V](SensorsMount/SensorAsimetric3Stemfie.stl), [HC-SR04 Asimetric 4V](SensorsMount/SensorAsimetric4Stemfie.stl)   
 Suport Sensor Llum LDR|![](Imatges/LDR.png) | [LDR L](SensorsMount/LDRSensorL_STEMFIE.stl), [LDR R](SensorsMount/LDRSensorL_STEMFIE.stl)
 
+## QR
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FTrucafortBot&s=6&e=m"/>
+
 ## Llicència
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
